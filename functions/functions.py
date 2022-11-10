@@ -1,0 +1,1 @@
+# function = a block of code which is executed ONLY when it is called
